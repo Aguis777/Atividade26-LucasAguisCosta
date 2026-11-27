@@ -6,10 +6,6 @@ Um pouco de tudo que eu aprendi, como foi e o conteudo da atividade 26 de Progra
 # 🔴 PC1 — ATIVIDADE 26
 ### PROGRAMAÇÃO DE COMPUTADORES
 
-<img src="https://img.shields.io/badge/PYTHON-3.x-black?style=for-the-badge&logo=python&logoColor=white&labelColor=8B0000" />
-<img src="https://img.shields.io/badge/TKINTER-GUI-black?style=for-the-badge&logo=windowsterminal&logoColor=white&labelColor=8B0000" />
-<img src="https://img.shields.io/badge/STATUS-CONCLUÍDO-black?style=for-the-badge&logo=github&logoColor=white&labelColor=8B0000" />
-
 **DESENVOLVIMENTO • APRENDIZADO • EVOLUÇÃO**
 
 ---
