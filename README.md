@@ -1,4 +1,4 @@
-# Atividade26-LucasAguisCosta
+# Atividade26-LucasAguisCosta(Aguis777)
 Um pouco de tudo que eu aprendi, como foi e o conteudo da atividade 26 de Programação de Computadores(PC1).
 
 <div align="center">
