@@ -2,62 +2,69 @@
 Um pouco de tudo que eu aprendi, como foi e o conteudo da atividade 26 de Programação de Computadores(PC1).
 
 
-<div align="center">
+ <div align="center">
 
-# 🔴 ATIVIDADE 26 — PC1
-### PROGRAMAÇÃO DE COMPUTADORES
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:590000,100:B30000&height=180&section=header&text=ATIVIDADE%2026&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=PROGRAMAÇÃO%20DE%20COMPUTADORES%20%7C%20PC1&descAlignY=60&descSize=16" />
 
-![Python](https://img.shields.io/badge/Python-3.x-8B0000?style=for-the-badge&logo=python&logoColor=white)
-![Tkinter](https://img.shields.io/badge/Tkinter-GUI-1A1A1A?style=for-the-badge&logo=windowsterminal&logoColor=FF1A1A)
-![GitHub](https://img.shields.io/badge/GitHub-Repository-8B0000?style=for-the-badge&logo=github&logoColor=white)
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=FF1A1A&center=true&vCenter=true&width=550&lines=Desenvolvimento+em+Python;Interfaces+Gr%C3%A1ficas+com+Tkinter;Aprendizado+e+evolu%C3%A7%C3%A3o+constante." />
+</a>
 
-**DESENVOLVIMENTO • APRENDIZADO • EVOLUÇÃO**
+<br/>
+
+<img src="https://img.shields.io/badge/PYTHON-3.x-8B0000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TKINTER-GUI-1A1A1A?style=for-the-badge&logo=windowsterminal&logoColor=FF1A1A" />
+<img src="https://img.shields.io/badge/PC1-ATIVIDADE_26-8B0000?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
 ---
 
-## 🔻 01. SOBRE O PROJETO
+## <img src="https://img.shields.io/badge/01-SOBRE_O_PROJETO-8B0000?style=flat-square" />
 
 Este repositório reúne os conhecimentos e atividades desenvolvidos durante a **Atividade 26 de Programação de Computadores (PC1)**.
 
-O foco principal foi aprender a utilizar a biblioteca **Tkinter**, do Python, para desenvolver interfaces gráficas, criar elementos interativos e construir aplicações funcionais.
+O principal objetivo foi explorar a biblioteca **Tkinter**, utilizando Python para desenvolver interfaces gráficas, criar elementos interativos e construir aplicações com funcionalidades próprias.
 
-## 🔻 02. TECNOLOGIAS
+## <img src="https://img.shields.io/badge/02-TECNOLOGIAS-8B0000?style=flat-square" />
 
 <div align="center">
 
-![Python](https://skillicons.dev/icons?i=python)
-![VSCode](https://skillicons.dev/icons?i=vscode)
-![GitHub](https://skillicons.dev/icons?i=github)
+<img height="55" src="https://skillicons.dev/icons?i=python,vscode,github" />
+
+<br/>
+
+**Python • Tkinter • VS Code • GitHub**
 
 </div>
 
-## 🔻 03. CONTEÚDOS APRENDIDOS
+## <img src="https://img.shields.io/badge/03-CONTEÚDOS_APRENDIDOS-8B0000?style=flat-square" />
 
-| Conteúdo | Aplicação |
+| Conteúdo | Aprendizado |
 |:---|:---|
-| Tkinter | Criação de interfaces |
+| Tkinter | Criação de interfaces gráficas |
 | Label | Exibição de textos |
-| Button | Botões interativos |
+| Button | Botões e comandos |
 | Entry | Entrada de informações |
 | Listbox | Manipulação de listas |
 | Checkbutton | Seleção de opções |
 | Radiobutton | Escolha entre alternativas |
 | Combobox | Menus de seleção |
 | Frames | Organização da interface |
-| Pack, Grid e Place | Posicionamento |
+| Pack, Grid e Place | Posicionamento de elementos |
 | Functions | Criação de funções |
 | Messagebox | Mensagens e alertas |
-| Validação | Verificação de dados |
+| Validação | Verificação de informações |
 
-## 🔻 04. DESENVOLVIMENTO
+## <img src="https://img.shields.io/badge/04-DESENVOLVIMENTO-8B0000?style=flat-square" />
 
-A atividade foi realizada por meio de exercícios práticos, começando com aplicações simples e avançando gradualmente para projetos com mais funcionalidades.
+A atividade foi realizada por meio de exercícios práticos, começando com aplicações mais simples e avançando gradualmente para projetos com mais funcionalidades.
 
-Durante o processo, pratiquei a criação de janelas, personalização de elementos, organização de componentes e utilização de funções para executar ações.
+Durante o desenvolvimento, pratiquei a criação de janelas, personalização de elementos, organização de componentes e utilização de funções para executar ações.
 
-## 🔻 05. EXERCÍCIOS
+Esse processo ajudou a compreender como diferentes elementos podem trabalhar juntos para formar uma aplicação funcional.
+
+## <img src="https://img.shields.io/badge/05-EXERCÍCIOS-8B0000?style=flat-square" />
 
 | Nº | Exercício |
 |:--:|:--|
@@ -72,24 +79,24 @@ Durante o processo, pratiquei a criação de janelas, personalização de elemen
 | 09 | Bloco de notas |
 | 10 | Cadastro |
 
-## 🔻 06. MINHA EVOLUÇÃO
+## <img src="https://img.shields.io/badge/06-MINHA_EVOLUÇÃO-8B0000?style=flat-square" />
 
-Com essa atividade, consegui ampliar meus conhecimentos em Python e entender melhor como funcionam as interfaces gráficas.
+Com essa atividade, consegui ampliar meus conhecimentos em Python e desenvolver uma compreensão melhor sobre interfaces gráficas.
 
-**Habilidades desenvolvidas:**
+**Principais habilidades desenvolvidas:**
 
 - Raciocínio lógico.
-- Organização de código.
+- Organização e estruturação de código.
 - Resolução de problemas.
 - Desenvolvimento de interfaces.
-- Utilização de funções.
+- Utilização de funções e componentes.
 - Identificação e correção de erros.
 
-## 🔻 07. CONCLUSÃO
+## <img src="https://img.shields.io/badge/07-CONCLUSÃO-8B0000?style=flat-square" />
 
 A Atividade 26 foi mais uma etapa importante da minha evolução como estudante de Informática.
 
-Aprendi que programar não envolve apenas escrever códigos, mas também desenvolver soluções, criar funcionalidades e proporcionar uma boa experiência para o usuário.
+Aprendi que a programação vai além de escrever códigos: também envolve criar soluções, desenvolver funcionalidades e proporcionar uma boa experiência para quem utiliza um programa.
 
 **Cada projeto é uma oportunidade de evoluir.**
 
@@ -97,12 +104,18 @@ Aprendi que programar não envolve apenas escrever códigos, mas também desenvo
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0D0D,100:8B0000&height=2&section=footer" />
+
 ### 🔴 LUCAS AGUIS COSTA
 
-**INFORMÁTICA • PYTHON • DESENVOLVIMENTO**
+**INFORMÁTICA | PYTHON | DESENVOLVIMENTO**
 
-![Status](https://img.shields.io/badge/STATUS-EM_CONSTANTE_EVOLUÇÃO-8B0000?style=for-the-badge&logo=github&logoColor=white)
+<img src="https://img.shields.io/badge/BUILDING-MY_FUTURE-8B0000?style=for-the-badge&logo=github&logoColor=white" />
+
+<br/>
 
 <sub>PROGRAMANDO HOJE. CONSTRUINDO O AMANHÃ.</sub>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,50:590000,100:B30000&height=90&section=footer" />
 
 </div>
